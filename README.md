@@ -29,8 +29,8 @@ You have full freedom to create a new website, but we do have some technical req
   * By using CloudFlare, we also get an SSL certificate, which will force all communications over HTTPS
 * We want to leverage Azure services, so if you use a database, it will be one that lives in Azure
 * All infrastructure should be coded and documented
-  * It should be very easy to deploy the complete setup somewhere, so that conttributers can get started easily
+  * It should be very easy to deploy the complete setup somewhere, so that contributers can get started easily
 * The solution should be easy to update by means of Continuous Delivery
 * User credentials will not be stored in a database. They should live in a service that is built for that, like Azure Active Directory
-* Use Micosot oriented technologies that are easy to understand for other contributors
+* Use Microsoft oriented technologies that are easy to understand for other contributors
 * Keep it simple! 
